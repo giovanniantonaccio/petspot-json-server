@@ -1,0 +1,20 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Zé",
+      "species": "cat",
+      "breed": "Siamês",
+      "age": 3,
+      "necklace_code": "ABC123"
+    },
+    {
+      "id": 1,
+      "name": "Totó",
+      "species": "dog",
+      "breed": "Poodle",
+      "age": 2,
+      "necklace_code": "DEF456"
+    }
+  ]
+}
