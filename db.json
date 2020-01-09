@@ -9,12 +9,20 @@
       "necklace_code": "ABC123"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Totó",
       "species": "dog",
       "breed": "Poodle",
       "age": 2,
       "necklace_code": "DEF456"
+    },
+    {
+      "id": 3,
+      "name": "Bixano",
+      "species": "cat",
+      "breed": "Vira-lata",
+      "age": 4,
+      "necklace_code": "ABCQUB"
     }
   ]
 }
