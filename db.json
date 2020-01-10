@@ -6,7 +6,11 @@
       "species": "cat",
       "breed": "Siamês",
       "age": 3,
-      "necklace_code": "ABC123"
+      "necklace_code": "ABC123",
+      "necklace_location": {
+        "latitude": -3.10429,
+        "longitude": -60.010059
+      }
     },
     {
       "id": 2,
@@ -14,7 +18,11 @@
       "species": "dog",
       "breed": "Poodle",
       "age": 2,
-      "necklace_code": "DEF456"
+      "necklace_code": "DEF456",
+      "necklace_location": {
+        "latitude": -3.093756,
+        "longitude": -60.022602
+      }
     },
     {
       "id": 3,
@@ -22,7 +30,11 @@
       "species": "cat",
       "breed": "Vira-lata",
       "age": 4,
-      "necklace_code": "ABCQUB"
+      "necklace_code": "ABCQUB",
+      "necklace_location": {
+        "latitude": -3.129903,
+        "longitude": -60.023382
+      }
     }
   ]
 }
